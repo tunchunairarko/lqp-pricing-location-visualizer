@@ -1,1 +1,1 @@
-# lqp-pricing-location-visualizer
+# Real-time visualization of warehouse operations
